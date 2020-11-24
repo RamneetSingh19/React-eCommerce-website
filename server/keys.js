@@ -1,0 +1,4 @@
+module.exports = {
+    MONGOURI: "", //PUT YOUR DATA KEY HERR
+    API_KEY: "" //PUT YOUR NODEMAILER-SENDGRID API KEY HERE
+}
